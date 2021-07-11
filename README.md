@@ -1,4 +1,4 @@
 # temp-repo
 # This is the first line in readme.md
 # This is the second line from Problem - 1 Branch. 
-# This is my line updatd
+# This is my line updated
